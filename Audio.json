@@ -1,0 +1,6 @@
+{
+  "audio": {
+    "src": "aud.mp3",
+    "autoplay": true
+  }
+}
